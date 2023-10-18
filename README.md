@@ -1,1 +1,1 @@
-# Simple-GUI-bases-Calculator-
+This is my little project for simple calculator
